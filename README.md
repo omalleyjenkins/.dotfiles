@@ -7,6 +7,6 @@ This is my custom .bashrc configuration for Bash which creates useful aliases fo
 ## cleanup.sh
 This script reverses operations done by the linux.sh script. 
 ## linux.sh
-This sets the preferences for a Linux operating system by customizing the .vimrc and .bashrc files with the vimrc and bashrc\_custom\ files in the ./etc directory. 
+This sets the preferences for a Linux operating system by customizing the .vimrc and .bashrc files with the vimrc and bashrc\_custom files in the ./etc directory. 
 ## Makefile
 This Makefile runs the linux.sh script with cleanup.sh as a prerequisite. 
